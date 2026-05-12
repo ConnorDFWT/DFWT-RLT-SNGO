@@ -9,7 +9,7 @@ Last updated: 05/2026
 
 # Quick project setup
 1. Import project .zip folder into Arduino IDE library
-2. Upload sketch to Arduino Nano 33 BLE Sense
+2. Open Arduino sketch and update line 53 with the blues notehub project url and enter unit ID on lines 61/ 62 before uploading sketch
 3. Update Blues Notecard to latest firmware. Notecard communicaiton is handled on arduino, so no further steps are needed.
 4. Connect all components!
 
