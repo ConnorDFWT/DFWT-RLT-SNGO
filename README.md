@@ -34,6 +34,6 @@ Last updated: 05/2026
   14. Silica Gel packet 5g
 
 
-<img width="3000" height="4000" alt="ArduinoARUV1" src="https://github.com/user-attachments/assets/386824bf-6519-4f43-ad25-6b601c9ca2bd" />
+<img width="1500" height="2000" alt="ArduinoARUV1" src="https://github.com/user-attachments/assets/386824bf-6519-4f43-ad25-6b601c9ca2bd" />
 
 (Snow Goose Arduino ARU, Version 1)
